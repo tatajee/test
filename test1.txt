@@ -1,0 +1,10 @@
+ Volume in drive C is Windows 10
+ Volume Serial Number is 102F-CE46
+
+ Directory of C:\Users\ttokala\Desktop\myproject
+
+12/22/2022  12:09 AM    <DIR>          .
+12/22/2022  12:09 AM    <DIR>          ..
+12/22/2022  12:09 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  383,467,175,936 bytes free
